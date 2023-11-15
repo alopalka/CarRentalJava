@@ -1,4 +1,4 @@
-package com.example.demo.jpa;
+package com.squad.carsrental.jpa;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

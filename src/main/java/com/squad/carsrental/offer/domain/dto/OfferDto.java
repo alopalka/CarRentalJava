@@ -1,4 +1,4 @@
-package com.example.demo.offer.domain.dto;
+package com.squad.carsrental.offer.domain.dto;
 
 import java.math.BigDecimal;
 

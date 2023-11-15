@@ -1,4 +1,4 @@
-package com.example.demo.bootstrap;
+package com.squad.carsrental;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

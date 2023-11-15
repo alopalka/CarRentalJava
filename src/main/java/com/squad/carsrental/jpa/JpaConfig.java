@@ -1,4 +1,4 @@
-package com.example.demo.jpa;
+package com.squad.carsrental.jpa;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
