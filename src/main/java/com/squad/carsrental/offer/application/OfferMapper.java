@@ -7,12 +7,10 @@ import com.squad.carsrental.offer.domain.entity.Offer;
 import org.mapstruct.Mapper;
 import org.mapstruct.MappingTarget;
 
-@Mapper(componentModel = "spring")
+@Mapper
 interface OfferMapper {
 
-
     OfferDto toDto(Offer offer);
-
 
     Offer toEntity(CreateOfferCommand command);
 
